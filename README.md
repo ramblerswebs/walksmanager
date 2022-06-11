@@ -5,8 +5,7 @@ A repository to enable issues to be recorded about Ramblers Walks Manager
 **Test site for Walks Manager**
 
 <a href="[https://www.markdownguide.org](https://uat-be.ramblers.nomensa.xyz/walks-manager
-)" target="_blank">[Learn Markdown!](https://uat-be.ramblers.nomensa.xyz/walks-manager
-)</a>
+)" target="_blank">https://uat-be.ramblers.nomensa.xyz/walks-manager</a>
 
 https://uat-be.ramblers.nomensa.xyz/walks-manager
 
